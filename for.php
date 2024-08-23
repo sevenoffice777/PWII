@@ -50,8 +50,18 @@
 
 
 <div class="container">                 
-<h1>Aula de Bootstrap 09-08-24 </h1>
-
+ <h1> Laço de repetição for </h1>
+ <p> Esse laço de repetição é mais utilizado e mais pratico </p>
+<pre>
+    for($i = 0; $i < 10; $i++ ) {
+        echo "$i";
+    }
+</pre>
+<?php
+for($i = 0; $i<= 10; $i++) {
+    echo "<b>OI <b> </br>";
+}
+?>
  
 </div>
     <script src="bootstrap.bundle.min.js"> </script>
