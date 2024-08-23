@@ -27,7 +27,7 @@
             Dropdown
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="whille.php">Whille</a></li>
+            <li><a class="dropdown-item" href="while.php">while</a></li>
             <li><a class="dropdown-item" href="for.php">for</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="foreach.php">Foreach</a></li>
