@@ -36,6 +36,10 @@
         <li class="nav-item">
           <a class="nav-link" href="bootstrap.php">"Bootstrap"</a>
         </li>
+        <a class="nav-link" href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F%3Flocale%3Dpt_BR">"Facebook"</a>
+        <a class="nav-link" href="https://www.instagram.com/">Instagram</a>
+        <a class="nav-link" href="https://twitter.com/?lang=pt-br">X bloqued</a>                 
+        <a class="nav-link" href="https://www.tiktok.com/pt-BR/ ">TIK TOK</a>
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">

@@ -1,3 +1,5 @@
+<?php include "cabecalho.php"; ?>
+
 <h1>Funções nativas </h1>
 <p> Funções nativas são fuções que o poprio php 
     nos fornece. como por exemplo:
@@ -28,6 +30,7 @@
     echo "</pre>";
     ?>
     <?php
+
 echo rand(), "\n";
 echo rand(), "\n";
 
@@ -35,3 +38,4 @@ echo rand(1, 1), "\n";
 ?>
 
 <h1>Funções Personalizadas </h1>
+<?php include "rodape.php"; ?>
